@@ -17,6 +17,18 @@
             "url": "https://pwa.maxime.cv",
             "description": "Brand your progressive web apps with ease!",
             "image": "https://pwa.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Pix",
+            "url": "https://pix.maxime.cv",
+            "description": "Convert your images and remove their background in a few clicks, for free!",
+            "image": "https://pix.maxime.cv/logo.svg"
+        },
+        {
+            "name": "quippy",
+            "url": "https://quippy.maxime.cv",
+            "description": "Like Quiplash2 but good!",
+            "image": "https://quippy.maxime.cv/logo.svg"
         }
     ]
 }
