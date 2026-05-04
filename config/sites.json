@@ -1,0 +1,22 @@
+{
+    "sites": [
+        {
+            "name": "Todew",
+            "url": "https://todew.maxime.cv",
+            "description": "To do: revive your planet with your to-do list!",
+            "image": "https://todew.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Icomake",
+            "url": "https://icomake.maxime.cv",
+            "description": "Make app icons in a few clicks, for free!",
+            "image": "https://icomake.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "PWA Brander",
+            "url": "https://pwa.maxime.cv",
+            "description": "Brand your progressive web apps with ease!",
+            "image": "https://pwa.maxime.cv/favicon.svg"
+        }
+    ]
+}
