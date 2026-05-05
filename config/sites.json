@@ -28,7 +28,19 @@
             "name": "quippy",
             "url": "https://quippy.maxime.cv",
             "description": "Like Quiplash2 but good!",
-            "image": "https://quippy.maxime.cv/logo.svg"
+            "image": "https://quippy.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "f*ckinsta",
+            "url":  "https://fckinsta.maxime.cv/",
+            "description": "instagram sux!!!",
+            "image": "https://fckinsta.maxime.cv/favicon.svg"
+        },
+          {
+            "name": "ether",
+            "url":  "https://ether.maxime.cv/",
+            "description": "Enter the ether...",
+            "image": "https://ether.maxime.cv/favicon.svg"
         }
     ]
 }
