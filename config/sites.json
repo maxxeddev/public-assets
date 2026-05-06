@@ -55,13 +55,13 @@
             "image": "https://auscorp.maxime.cv/favicon.svg"
         },
         {
-            "name": "3DStudio",
+            "name": "Img23D",
             "url":  "https://3d.maxime.cv/",
             "description": "3D Studio for making printable files from photos!",
             "image": "https://3d.maxime.cv/favicon.svg"
         },  
         {
-            "name": "3DStencil",
+            "name": "Stencil3D",
             "url":  "https://3dstencil.maxime.cv/",
             "description": "3D Stencil maker!",
             "image": "https://3dstencil.maxime.cv/favicon.svg"
@@ -71,6 +71,19 @@
             "url":  "https://uppit.maxime.cv/",
             "description": "UPBank web-application for managing finances directly with the UP API.",
             "image": "https://uppit.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "KaraTube",
+            "url":  "https://karatube.maxime.cv/",
+            "description": "Browser Karaoke with Youtube player!",
+            "image": "https://karatube.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Celestral",
+            "url":  "https://celestral.maxime.cv/",
+            "description": "The moon phases",
+            "image": "https://celestral.maxime.cv/favicon.svg"
         }
+        
     ]
 }
