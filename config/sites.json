@@ -47,6 +47,6 @@
             "url":  "https://lumee.maxime.cv/",
             "description": "Local LLM!",
             "image": "https://lumee.maxime.cv/favicon.svg"
-        },
+        }
     ]
 }
