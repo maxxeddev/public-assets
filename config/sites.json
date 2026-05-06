@@ -22,7 +22,7 @@
             "name": "Pix",
             "url": "https://pix.maxime.cv",
             "description": "Convert your images and remove their background in a few clicks, for free!",
-            "image": "https://pix.maxime.cv/logo.svg"
+            "image": "https://pix.maxime.cv/favicon.svg"
         },
         {
             "name": "quippy",
@@ -83,7 +83,12 @@
             "url":  "https://celestral.maxime.cv/",
             "description": "The moon phases",
             "image": "https://celestral.maxime.cv/favicon.svg"
-        }
-        
+        },
+        {
+            "name": "Tax Equality",
+            "url":  "https://tax-equality-au.maxime.cv/",
+            "description": "Same Income. Four Different Tax Bills.",
+            "image": "https://tax-equality-au.maxime.cv/favicon.png"
+        } 
     ]
 }
