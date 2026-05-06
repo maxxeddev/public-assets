@@ -36,11 +36,17 @@
             "description": "instagram sux!!!",
             "image": "https://fckinsta.maxime.cv/favicon.svg"
         },
-          {
+        {
             "name": "ether",
             "url":  "https://ether.maxime.cv/",
             "description": "Enter the ether...",
             "image": "https://ether.maxime.cv/favicon.svg"
-        }
+        },
+        {
+            "name": "Lumee",
+            "url":  "https://lumee.maxime.cv/",
+            "description": "Local LLM!",
+            "image": "https://lumee.maxime.cv/favicon.svg"
+        },
     ]
 }
