@@ -5,6 +5,11 @@
             "url": "https://todew.maxime.cv",
             "description": "To do: revive your planet with your to-do list!",
             "image": "https://todew.maxime.cv/favicon.svg"
+        },        {
+            "name": "Lumee",
+            "url":  "https://lumee.maxime.cv/",
+            "description": "Local LLM!",
+            "image": "https://lumee.maxime.cv/favicon.svg"
         },
         {
             "name": "Icomake",
@@ -13,10 +18,16 @@
             "image": "https://icomake.maxime.cv/favicon.svg"
         },
         {
-            "name": "PWA Brander",
-            "url": "https://pwa.maxime.cv",
-            "description": "Brand your progressive web apps with ease!",
-            "image": "https://pwa.maxime.cv/favicon.svg"
+            "name": "lostmy",
+            "url":  "https://lostmy.maxime.cv/",
+            "description": "Make printable labels for your belongings! When someone finds them, they can scan the QR code and contact you to return them!",
+            "image": "https://lostmy.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Useless Volume",
+            "url": "https://useless-volume.maxime.cv",
+            "description": "The most terrible ways to change volume on your computer, genuinely infuriating to use!",
+            "image": "https://useless-volume.maxime.cv/favicon.svg"
         },
         {
             "name": "Pix",
@@ -43,16 +54,16 @@
             "image": "https://ether.maxime.cv/favicon.svg"
         },
         {
-            "name": "Lumee",
-            "url":  "https://lumee.maxime.cv/",
-            "description": "Local LLM!",
-            "image": "https://lumee.maxime.cv/favicon.svg"
-        },
-        {
             "name": "AusCorps",
             "url":  "https://auscorp.maxime.cv/",
             "description": "Australian & Multinational MegaCorporations",
             "image": "https://auscorp.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Element Pricer",
+            "url": "https://elementpricer.maxime.cv",
+            "description": "The table of elements with prices based on their value as a resource in the real world",
+            "image": "https://elementpricer.maxime.cv/favicon.svg"
         },
         {
             "name": "Img23D",
@@ -89,6 +100,6 @@
             "url":  "https://tax-equality-au.maxime.cv/",
             "description": "Same Income. Four Different Tax Bills.",
             "image": "https://tax-equality-au.maxime.cv/favicon.png"
-        } 
+        }
     ]
 }
