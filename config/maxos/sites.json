@@ -1,0 +1,174 @@
+{
+    "sites": [
+        {
+            "name": "Todew",
+            "url": "https://todew.maxime.cv",
+            "description": {
+                "en": "To do: revive your planet with your to-do list!",
+                "de": "To-Do: Belebe deinen Planeten mit deiner To-Do-Liste wieder!",
+                "fr": "À faire : ravivez votre planète avec votre liste de tâches !"
+            },
+            "image": "https://todew.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Lumee",
+            "url": "https://lumee.maxime.cv/",
+            "description": {
+                "en": "Local LLM!",
+                "de": "Lokales LLM!",
+                "fr": "LLM local !"
+            },
+            "image": "https://lumee.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Icomake",
+            "url": "https://icomake.maxime.cv",
+            "description": {
+                "en": "Make app icons in a few clicks, for free!",
+                "de": "Erstelle App-Icons in wenigen Klicks, kostenlos!",
+                "fr": "Créez des icônes d'applications en quelques clics, gratuitement !"
+            },
+            "image": "https://icomake.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "lostmy",
+            "url": "https://lostmy.maxime.cv/",
+            "description": {
+                "en": "Make printable labels for your belongings! When someone finds them, they can scan the QR code and contact you to return them!",
+                "de": "Erstelle druckbare Etiketten für dein Hab und Gut! Wenn sie jemand findet, kann er den QR-Code scannen und dich kontaktieren, um sie zurückzugeben!",
+                "fr": "Créez des étiquettes imprimables pour vos objets ! Si quelqu'un les trouve, il peut scanner le code QR et vous contacter pour vous les rendre !"
+            },
+            "image": "https://lostmy.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Useless Volume",
+            "url": "https://useless-volume.maxime.cv",
+            "description": {
+                "en": "The most terrible ways to change volume on your computer, genuinely infuriating to use!",
+                "de": "Die schrecklichsten Arten, die Lautstärke an deinem Computer zu ändern, wirklich frustrierend zu bedienen!",
+                "fr": "Les pires façons de changer le volume sur votre ordinateur, vraiment exaspérantes à utiliser !"
+            },
+            "image": "https://useless-volume.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Pix",
+            "url": "https://pix.maxime.cv",
+            "description": {
+                "en": "Convert your images and remove their background in a few clicks, for free!",
+                "de": "Konvertiere deine Bilder und entferne ihren Hintergrund in wenigen Klicks, kostenlos!",
+                "fr": "Convertissez vos images et supprimez leur arrière-plan en quelques clics, gratuitement !"
+            },
+            "image": "https://pix.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "quippy",
+            "url": "https://quippy.maxime.cv",
+            "description": {
+                "en": "Like Quiplash2 but good!",
+                "de": "Wie Quiplash2, aber gut!",
+                "fr": "Comme Quiplash2, mais en mieux !"
+            },
+            "image": "https://quippy.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "f*ckinsta",
+            "url": "https://fckinsta.maxime.cv/",
+            "description": {
+                "en": "instagram sux!!!",
+                "de": "Instagram ist doof!!!",
+                "fr": "instagram sux!!!"
+            },
+            "image": "https://fckinsta.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "ether",
+            "url": "https://ether.maxime.cv/",
+            "description": {
+                "en": "Enter the ether...",
+                "de": "Tritt ein in den Äther...",
+                "fr": "Entrez dans l'éther..."
+            },
+            "image": "https://ether.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "AusCorps",
+            "url": "https://auscorp.maxime.cv/",
+            "description": {
+                "en": "Australian & Multinational MegaCorporations",
+                "de": "Australische & multinationale Riesenkonzerne",
+                "fr": "Mégacorporations australiennes et multinationales"
+            },
+            "image": "https://auscorp.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Element Pricer",
+            "url": "https://elementpricer.maxime.cv",
+            "description": {
+                "en": "The table of elements with prices based on their value as a resource in the real world",
+                "de": "Das Periodensystem der Elemente mit Preisen basierend auf ihrem Wert als Ressource in der realen Welt",
+                "fr": "Le tableau des éléments avec des prix basés sur leur valeur en tant que ressource dans le monde réel"
+            },
+            "image": "https://elementpricer.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Img23D",
+            "url": "https://3d.maxime.cv/",
+            "description": {
+                "en": "3D Studio for making printable files from photos!",
+                "de": "3D-Studio zur Erstellung druckbarer Dateien aus Fotos!",
+                "fr": "Studio 3D pour créer des fichiers imprimables à partir de photos !"
+            },
+            "image": "https://3d.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Stencil3D",
+            "url": "https://3dstencil.maxime.cv/",
+            "description": {
+                "en": "3D Stencil maker!",
+                "de": "3D-Schablonen-Maker!",
+                "fr": "Générateur de pochoirs 3D !"
+            },
+            "image": "https://3dstencil.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Uppit",
+            "url": "https://uppit.maxime.cv/",
+            "description": {
+                "en": "UPBank web-application for managing finances directly with the UP API.",
+                "de": "UPBank-Webanwendung zur direkten Verwaltung der Finanzen mit der UP-API.",
+                "fr": "Application web UPBank pour gérer ses finances directement avec l'API UP."
+            },
+            "image": "https://uppit.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "KaraTube",
+            "url": "https://karatube.maxime.cv/",
+            "description": {
+                "en": "Browser Karaoke with Youtube player!",
+                "de": "Browser-Karaoke mit YouTube-Player!",
+                "fr": "Karaoké sur navigateur avec lecteur YouTube !"
+            },
+            "image": "https://karatube.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Celestral",
+            "url": "https://celestral.maxime.cv/",
+            "description": {
+                "en": "The moon phases",
+                "de": "Die Mondphasen",
+                "fr": "Les phases de la lune"
+            },
+            "image": "https://celestral.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Tax Equality",
+            "url": "https://tax-equality-au.maxime.cv/",
+            "description": {
+                "en": "Same Income. Four Different Tax Bills.",
+                "de": "Gleiches Einkommen. Vier verschiedene Steuerbescheide.",
+                "fr": "Même revenu. Quatre déclarations d'impôts différentes."
+            },
+            "image": "https://tax-equality-au.maxime.cv/favicon.png"
+        }
+    ]
+}
