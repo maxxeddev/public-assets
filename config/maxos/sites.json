@@ -169,6 +169,26 @@
                 "fr": "Même revenu. Quatre déclarations d'impôts différentes."
             },
             "image": "https://tax-equality-au.maxime.cv/favicon.png"
+        },
+        {
+            "name": "Australian Media Ownership",
+            "url": "https://aus-media.maxime.cv",
+            "description": {
+                "en": "Australian media ownership visualisation",
+                "de": "Visualisierung der australischen Medienbesitzverhältnisse",
+                "fr": "Visualisation de la propriété des médias australiens"
+            },
+            "image": "https://aus-media.maxime.cv/favicon.svg"
+        },
+        {
+            "name": "Node Sense",
+            "url": "https://rpsee.maxime.cv/",
+            "description": {
+                "en": "A CHEQD Block Explorer application for validators and users to explore the CHEQD blockchain and their accounts.",
+                "de": "Eine CHEQD-Block-Explorer-Anwendung für Validator und Benutzer, um die CHEQD-Blockchain und ihre Konten zu erkunden.",
+                "fr": "Une application d'exploration du bloc CHEQD pour les validateurs et les utilisateurs afin d'explorer la blockchain CHEQD et leurs comptes."
+            },
+            "image": "https://rpsee.maxime.cv/favicon.svg"
         }
     ]
 }
