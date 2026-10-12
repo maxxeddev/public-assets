@@ -274,7 +274,11 @@
       "name": "Golden Nights",
       "type": "app",
       "url": "https://golden.maxime.cv",
-      "description": "Initialize application structure",
+      "description": {
+        "en": "An inside-joke song visualiser about hitting the clubs!",
+        "de": "Ein Insider-Witz-Songvisualisierer über einen Abend im Club!",
+        "fr": "Un visualiseur de chanson, blague entre potes, sur les soirées en club !"
+      },
       "iconUrl": "https://golden.maxime.cv/favicon.svg",
       "openIn": "in-page",
       "category": "Entertainment"
@@ -284,7 +288,11 @@
       "name": "Vae",
       "type": "app",
       "url": "https://vae.maxime.cv",
-      "description": "Remove Framer Motion page transitions",
+      "description": {
+        "en": "Website for Vampy: Live2D Cubism rig artist, Twitch streamer and singer-songwriter.",
+        "de": "Website von Vampy: Live2D-Cubism-Rig-Künstlerin, Twitch-Streamerin und Singer-Songwriterin.",
+        "fr": "Site de Vampy : artiste de rigging Live2D Cubism, streameuse Twitch et auteure-compositrice-interprète."
+      },
       "iconUrl": "https://vae.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Demo"
@@ -294,7 +302,11 @@
       "name": "Aesthetica",
       "type": "app",
       "url": "https://aesthetica.maxime.cv",
-      "description": "Update aesthetic terminology and UI components",
+      "description": {
+        "en": "A curated archive of visual movements and executable UI tokens: 37+ styles, live interactive components, DESIGN.md specs, WCAG contrast auditing and speculative aesthetic alchemy.",
+        "de": "Ein kuratiertes Archiv visueller Bewegungen und ausführbarer UI-Tokens: über 37 Stile, interaktive Live-Komponenten, DESIGN.md-Spezifikationen, WCAG-Kontrastprüfung und spekulative Ästhetik-Alchemie.",
+        "fr": "Une archive organisée de mouvements visuels et de tokens d'interface exécutables : plus de 37 styles, composants interactifs en direct, spécifications DESIGN.md, audit de contraste WCAG et alchimie esthétique spéculative."
+      },
       "iconUrl": "https://aesthetica.maxime.cv/favicon.svg",
       "openIn": "in-page",
       "category": "Dev"
@@ -304,7 +316,11 @@
       "name": "GovMap",
       "type": "app",
       "url": "https://govmap.maxime.cv",
-      "description": "Implement live parliamentary division sync",
+      "description": {
+        "en": "Map of Australian parliament members with their live voting records (divisions).",
+        "de": "Karte der australischen Parlamentsmitglieder mit ihrem aktuellen Abstimmungsverhalten (Divisions).",
+        "fr": "Carte des parlementaires australiens avec leurs votes en direct (divisions)."
+      },
       "iconUrl": "https://govmap.maxime.cv/favicon.svg",
       "openIn": "in-page",
       "category": "Reference"
@@ -314,7 +330,11 @@
       "name": "Waterdrop",
       "type": "app",
       "url": "https://waterdrop.maxime.cv",
-      "description": "Add explicit audio control state management",
+      "description": {
+        "en": "A play on AirDrop: cross-platform peer-to-peer file sharing in the browser, using your device hotspot and WebRTC.",
+        "de": "Ein Wortspiel auf AirDrop: plattformübergreifendes Peer-to-Peer-Teilen von Dateien im Browser über den Hotspot deines Geräts und WebRTC.",
+        "fr": "Un jeu de mots sur AirDrop : partage de fichiers pair-à-pair multiplateforme dans le navigateur, via le point d'accès de votre appareil et WebRTC."
+      },
       "iconUrl": "https://waterdrop.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Utilities"
@@ -324,7 +344,11 @@
       "name": "Spider",
       "type": "app",
       "url": "https://spider.maxime.cv",
-      "description": "Add favicon assets and configuration",
+      "description": {
+        "en": "Spider Solitaire in your browser!",
+        "de": "Spider-Solitär im Browser!",
+        "fr": "Le solitaire Spider dans votre navigateur !"
+      },
       "iconUrl": "https://spider.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Games"
@@ -334,7 +358,11 @@
       "name": "Katamoji",
       "type": "app",
       "url": "https://katamoji.maxime.cv",
-      "description": "Update CSP to support WASM and external CDNs",
+      "description": {
+        "en": "Roll up emoji in a Katamari-style game!",
+        "de": "Rolle Emojis auf in einem Spiel im Katamari-Stil!",
+        "fr": "Roulez des émojis dans un jeu façon Katamari !"
+      },
       "iconUrl": "https://katamoji.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Entertainment"
@@ -344,7 +372,11 @@
       "name": "Jira Forge",
       "type": "app",
       "url": "https://jiraforge.maxime.cv",
-      "description": "Switch to HashRouter and improve project CRUD",
+      "description": {
+        "en": "A Jira-style project and task management tool.",
+        "de": "Ein Projekt- und Aufgabenverwaltungstool im Jira-Stil.",
+        "fr": "Un outil de gestion de projets et de tâches façon Jira."
+      },
       "iconUrl": "https://jiraforge.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Productivity"
@@ -354,7 +386,11 @@
       "name": "Proxmox LXC Gen",
       "type": "app",
       "url": "https://lxc.maxime.cv",
-      "description": "Add GitHub PAT support for private repos",
+      "description": {
+        "en": "Generate Proxmox LXC container setups from GitHub repositories, including private ones.",
+        "de": "Erzeuge Proxmox-LXC-Container-Setups aus GitHub-Repositories, auch aus privaten.",
+        "fr": "Générez des configurations de conteneurs LXC Proxmox à partir de dépôts GitHub, y compris privés."
+      },
       "iconUrl": "https://lxc.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Dev"
@@ -364,7 +400,11 @@
       "name": "Raw Signal",
       "type": "app",
       "url": "https://rs.maxime.cv",
-      "description": "Add undo/redo support to draft editor",
+      "description": {
+        "en": "A draft editor for writing content, with undo/redo.",
+        "de": "Ein Entwurfseditor zum Schreiben von Inhalten, mit Rückgängig/Wiederholen.",
+        "fr": "Un éditeur de brouillons pour rédiger du contenu, avec annuler/rétablir."
+      },
       "iconUrl": "https://rs.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Content"
@@ -374,7 +414,11 @@
       "name": "MyTrip",
       "type": "app",
       "url": "https://mytrip.maxime.cv",
-      "description": "Add weather context integration",
+      "description": {
+        "en": "Plan and keep track of your trips, with weather context.",
+        "de": "Plane und verfolge deine Reisen, mit Wetterkontext.",
+        "fr": "Planifiez et suivez vos voyages, avec le contexte météo."
+      },
       "iconUrl": "https://mytrip.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Media"
@@ -384,7 +428,11 @@
       "name": "ScaryBrowser",
       "type": "app",
       "url": "https://scarybrowser.maxime.cv",
-      "description": "Adjust fingerprinting weights",
+      "description": {
+        "en": "See how much your browser reveals about you through fingerprinting.",
+        "de": "Sieh, wie viel dein Browser durch Fingerprinting über dich verrät.",
+        "fr": "Découvrez tout ce que votre navigateur révèle de vous grâce au fingerprinting."
+      },
       "iconUrl": "https://scarybrowser.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Demo"
@@ -394,7 +442,11 @@
       "name": "JustVote",
       "type": "app",
       "url": "https://justvote.maxime.cv",
-      "description": "Add multi-theme support and persistent state",
+      "description": {
+        "en": "Simple polls and voting, with multiple themes.",
+        "de": "Einfache Umfragen und Abstimmungen, mit mehreren Designs.",
+        "fr": "Sondages et votes simples, avec plusieurs thèmes."
+      },
       "iconUrl": "https://justvote.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Communication"
@@ -404,7 +456,11 @@
       "name": "PWA Brander",
       "type": "app",
       "url": "https://pwa.maxime.cv",
-      "description": "Add multiple favicon sizes and Apple touch icon",
+      "description": {
+        "en": "Customise the branding and icons of your PWA.",
+        "de": "Passe das Branding und die Icons deiner PWA an.",
+        "fr": "Personnalisez l'image de marque et les icônes de votre PWA."
+      },
       "iconUrl": "https://pwa.maxime.cv/favicon.svg",
       "openIn": "in-page",
       "category": "Dev"
@@ -414,7 +470,11 @@
       "name": "Case Designer",
       "type": "app",
       "url": "https://case-designer.maxime.cv",
-      "description": "Add option to include inner lip on lid",
+      "description": {
+        "en": "Design printable 3D cases and boxes with custom lids.",
+        "de": "Entwirf druckbare 3D-Gehäuse und -Boxen mit individuellen Deckeln.",
+        "fr": "Concevez des boîtiers et boîtes 3D imprimables avec couvercles personnalisés."
+      },
       "iconUrl": "https://case-designer.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Utilities"
@@ -424,7 +484,11 @@
       "name": "E-Paper Bitmap",
       "type": "app",
       "url": "https://e-paper-bitmap.maxime.cv",
-      "description": "Improve layout and responsiveness",
+      "description": {
+        "en": "Convert images to bitmaps for e-paper displays.",
+        "de": "Konvertiere Bilder in Bitmaps für E-Paper-Displays.",
+        "fr": "Convertissez des images en bitmaps pour écrans e-paper."
+      },
       "iconUrl": "https://e-paper-bitmap.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Dev"
@@ -434,7 +498,11 @@
       "name": "Calling",
       "type": "app",
       "url": "https://call.maxime.cv",
-      "description": "Use favicon for Open Graph image",
+      "description": {
+        "en": "A prank call website!",
+        "de": "Eine Website für Scherzanrufe!",
+        "fr": "Un site de canulars téléphoniques !"
+      },
       "iconUrl": "https://call.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Entertainment"
@@ -444,7 +512,11 @@
       "name": "JSON Schema Builder",
       "type": "app",
       "url": "https://jsvf.maxime.cv",
-      "description": "Support importing assets from ZIP files",
+      "description": {
+        "en": "Build and validate JSON schemas visually, with ZIP asset import.",
+        "de": "Erstelle und validiere JSON-Schemas visuell, mit ZIP-Asset-Import.",
+        "fr": "Créez et validez des schémas JSON visuellement, avec import de ressources ZIP."
+      },
       "iconUrl": "https://jsvf.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Dev"
@@ -454,7 +526,11 @@
       "name": "MYBNE",
       "type": "app",
       "url": "https://mybne.maxime.cv",
-      "description": "Add React Query hooks for API interaction",
+      "description": {
+        "en": "Bring-your-own-API-key Brisbane public transport and liveability scorer (currently broken).",
+        "de": "Brisbane-Bewertung für öffentlichen Nahverkehr und Lebensqualität mit eigenem API-Schlüssel (derzeit defekt).",
+        "fr": "Évaluateur des transports en commun et de la qualité de vie à Brisbane, avec votre propre clé API (actuellement en panne)."
+      },
       "iconUrl": "https://mybne.maxime.cv/favicon.svg",
       "openIn": "new-tab",
       "category": "Demo"
@@ -464,7 +540,11 @@
       "name": "Celeste",
       "type": "app",
       "url": "https://celeste.maxime.cv",
-      "description": "Disable cloud layer in ThreeScene",
+      "description": {
+        "en": "A moon phase and horoscope tracker (currently broken).",
+        "de": "Ein Tracker für Mondphasen und Horoskope (derzeit defekt).",
+        "fr": "Un suivi des phases de la lune et de l'horoscope (actuellement en panne)."
+      },
       "iconUrl": "https://celeste.maxime.cv/favicon.svg",
       "openIn": "in-page",
       "category": "Application"
@@ -474,7 +554,11 @@
       "name": "HumanTyper",
       "type": "app",
       "url": "https://humantyper.vercel.app",
-      "description": "Add module script tag for index.tsx",
+      "description": {
+        "en": "Makes AI-generated text look like it was typed by a human.",
+        "de": "Lässt KI-generierten Text so aussehen, als wäre er von einem Menschen getippt worden.",
+        "fr": "Donne à un texte généré par IA l'apparence d'une saisie humaine."
+      },
       "iconUrl": "https://humantyper.vercel.app/favicon.svg",
       "openIn": "in-page",
       "category": "AI"
