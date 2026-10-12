@@ -1,25 +1,62 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
-  "required": ["id", "name"],
-  "properties": {
-    "id": { "type": "string" },
-    "name": { "type": "string" },
-    "url": { "type": "string" },
-    "description": {
-      "type": ["string", "object"],
-      "description": "A string description or an object map of localized descriptions.",
-      "additionalProperties": { "type": "string" }
+  "oneOf": [
+    { "$ref": "#/definitions/AppType" },
+    { "$ref": "#/definitions/FolderType" }
+  ],
+  "definitions": {
+    "AppType": {
+      "type": "object",
+      "required": ["id", "name", "type"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "type": { "type": "string", "enum": ["app"] },
+        "url": { "type": "string" },
+        "description": {
+          "type": ["string", "object"],
+          "additionalProperties": { "type": "string" }
+        },
+        "iconUrl": { "type": "string" },
+        "openIn": { "type": "string", "enum": ["in-page", "new-tab"] },
+        "category": {
+          "type": "string",
+          "enum": [
+            "Communication",
+            "Productivity",
+            "Content",
+            "Media",
+            "Utilities",
+            "Entertainment",
+            "Reference",
+            "Admin",
+            "AI",
+            "Application",
+            "Demo",
+            "Games",
+            "Dev"
+          ]
+        },
+        "tags": { "type": "array", "items": { "type": "string" } }
+      }
     },
-    "iconUrl": { "type": "string" },
-    "openIn": {
-      "type": "string",
-      "enum": ["in-page", "new-tab"]
-    },
-    "category": { "type": "string" },
-    "tags": {
-      "type": "array",
-      "items": { "type": "string" }
+    "FolderType": {
+      "type": "object",
+      "required": ["id", "name", "type", "items"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "type": { "type": "string", "enum": ["folder"] },
+        "items": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "$ref": "#/definitions/AppType" },
+              { "$ref": "#/definitions/FolderType" }
+            ]
+          }
+        }
+      }
     }
   }
 }
